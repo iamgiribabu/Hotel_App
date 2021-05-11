@@ -2,6 +2,6 @@
 "college mini-project"
 "Group member:"
 "GIRIBABU ANISETTI"
-"NISHANT CHAVAN:
+"NISHANT CHAVAN"
 "AKSHAT SHIRSAT"
 "RAHUL Chakravorty"
